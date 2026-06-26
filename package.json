@@ -9,9 +9,16 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@rainbow-me/rainbowkit": "^2.2.11",
+    "@tanstack/react-query": "^5.101.1",
+    "@walletconnect/ethereum-provider": "^2.23.10",
+    "@zama-fhe/react-sdk": "^3.1.0",
+    "@zama-fhe/sdk": "^3.1.0",
     "next": "16.2.9",
     "react": "19.2.4",
-    "react-dom": "19.2.4"
+    "react-dom": "19.2.4",
+    "viem": "^2.53.1",
+    "wagmi": "^2.19.5"
   },
   "devDependencies": {
     "@types/node": "^20",
