@@ -1,6 +1,6 @@
 // Your deployed SealedBidAuction on Sepolia.
 export const AUCTION_ADDRESS =
-  "0xd17a8517ab440Bd77372c7646EF5d4B0E53F1611" as const;
+  "0xA86Ed782504960bcA5705447FAC943Dd4D41Cb7D" as const;
 
 // Minimal ABI for the functions/events the frontend uses.
 // Note: FHE handle types (externalEuint64, euint64, eaddress) are all `bytes32`
